@@ -31,7 +31,7 @@
 #include <sys/ioctl.h>
 #include <fcntl.h>
 #include <inttypes.h> 
-#include <fcntl.h>    
+
 
 
 using namespace std;
